@@ -1,0 +1,64 @@
+.main {
+    background: rgb(78, 77, 77);
+    margin: auto;
+    padding: 2rem;
+
+}
+
+.form {
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    background: rgb(92, 90, 90);
+    align-items: center;
+    margin-top: 80px;
+    width: 40%;
+    border-radius: 10px
+}
+
+.h2 {
+    color: aliceblue;
+    font-size: 26px;
+}
+.list{
+    position: relative;
+    right: 210px;
+    bottom: 25px;
+}
+.label {
+    position: relative;
+    font-size: 16px;
+    padding: 8px;
+    color: aliceblue;
+    right: 85px;
+    top: 4px;
+}
+
+.input {
+    font-size: 16px;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgb(77, 74, 74);
+    cursor: pointer;
+    border-color: rgb(153, 148, 148);
+}
+
+.button {
+    position: relative;
+    font-size: 15px;
+    padding: 10px;
+    background: rgb(78, 77, 77);
+    border-color: rgb(153, 148, 148);
+    top: 5px;
+    right: 77px;
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.span {
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 14px;
+}
